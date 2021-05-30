@@ -7,13 +7,13 @@ This follows Net Ninja's Gatbsy tutorial. Things that are covered include:
  - Styling components
  - Static files
  - Content Mesh & GraphQL
- - Site metadata & page queries
- - Static Queries
+ - Site Metadata & Page Queries
+ - Static queries
  - Source plugins
- - Markdown & transformer plugins
- - Fetching & listing data
+ - Markdown & Transformer Plugins
+ - Fetching & Listing Data
  - Sorting/ordering queries
- - Optimised & featured images
+ - Optimised & Featured Images
  - Template components
  - Generating pages
  - Query variables
